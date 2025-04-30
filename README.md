@@ -1,54 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Welcome to My GitHub Portfolio! 🎉
 
-###
+Hello! I'm **Ayman Atta **, I am a communications and computer engineer and a data scientist, and I have a strong passion for artificial intelligence and its applications.  🚀
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+---
 
-###
+## 🌟 About Me
 
-<h2 align="left">About me</h2>
+- **Name**: Ayman Atta  
+- **Profession**: Artificial intelligence Engineering | ML @Trainer At NTI | ML | DL
+- **Interests**: Artificial intelligence, Programming,  and Continuous Learning  
+- **Mission**: To leverage my skills and knowledge to solve real-world problems while growing as a professional.  
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 🛠️ Skills
 
-###
+- **Machine Learning**: SVM , Linear Regression , Logistic Regression , Decision Tree ,Xgboost , K-means  , Naive Bayes  
+- **Programming Languages**: Python 
+- **Tools & Platforms**: jupyter notebook,kaggel, Github, colab, VS Code  
+- **Soft Skills**: Teamwork, Problem-Solving, Effective Communication  
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🔗 Connect with Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+- **LinkedIn**:[https://www.linkedin.com/in/ayman-atta-2191ba249/](#)
+- **GitHub**: [](#)  
+- **Email**:  [aymanatta529@gmail.com](#)
+- **facebook**: []
 
-###
+---
 
-<!--
-**aymanatta20/aymanatta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visiting my portfolio! Feel free to explore my repositories and connect with me to discuss exciting opportunities or collaborations. 😊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
