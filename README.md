@@ -25,9 +25,10 @@ Hello! I'm **Ayman Atta **, I am a communications and computer engineer and a da
 ## 🔗 Connect with Me
 
 - **LinkedIn**:[https://www.linkedin.com/in/ayman-atta-2191ba249/](#)
-- **GitHub**: [](#)  
+- **GitHub**: [https://github.com/aymanatta20](#)  
 - **Email**:  [aymanatta529@gmail.com](#)
-- **facebook**: []
+- **facebook**: [https://www.facebook.com/profile.php?id=100012418984584&mibextid=ZbWKwL](#)
+- **instagram** : [https://www.instagram.com/ayman.a3ta/](#)
 
 ---
 
