@@ -14,7 +14,7 @@ Hello! I'm **Ayman Atta **, I am a communications and computer engineer and a da
 ---
 
 ## 🛠️ Skills
-- **Programming Languages**: Python Oriented Programming
+- **Programming Languages**: Python , Object-Oriented Programming
 - **Machine Learning**: SVM , Linear Regression , Logistic Regression , Decision Tree ,Xgboost , K-means  , Naive Bayes  
 - **Deep Learning** : ANN ,CNN , RNN & LSTM,GRU ,NLP , Computer Vision 
 - **Tools & Platforms**: jupyter notebook,kaggel, Github, colab, VS Code  
